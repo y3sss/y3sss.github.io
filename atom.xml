@@ -3,11 +3,11 @@
   <title>Y3&#39;s blog</title>
   
   
-  <link href="http://ys.w4ke.cn/atom.xml" rel="self"/>
+  <link href="http://www.y3ss.cn/atom.xml" rel="self"/>
   
-  <link href="http://ys.w4ke.cn/"/>
+  <link href="http://www.y3ss.cn/"/>
   <updated>2020-11-20T13:19:34.015Z</updated>
-  <id>http://ys.w4ke.cn/</id>
+  <id>http://www.y3ss.cn/</id>
   
   <author>
     <name>y3s</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://ys.w4ke.cn/2020/11/20/hello-world/"/>
-    <id>http://ys.w4ke.cn/2020/11/20/hello-world/</id>
+    <link href="http://www.y3ss.cn/2020/11/20/hello-world/"/>
+    <id>http://www.y3ss.cn/2020/11/20/hello-world/</id>
     <published>2020-11-20T13:19:34.015Z</published>
     <updated>2020-11-20T13:19:34.015Z</updated>
     
