@@ -2975,12 +2975,6 @@ main >.inner {
 .social .item.youtube i {
   color: #e60026;
 }
-.social .item.google::before {
-  background-color: #ea716e;
-}
-.social .item.google i {
-  color: #ea716e;
-}
 .social .item:focus i,
 .social .item:hover i {
   color: var(--grey-0);
