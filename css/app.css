@@ -2934,10 +2934,10 @@ main >.inner {
   color: #191717;
 }
 .social .item.google::before {
-  background-color: oogl;
+  background-color: #ea716e;
 }
 .social .item.google i {
-  color: oogl;
+  color: #ea716e;
 }
 .social .item.twitter::before {
   background-color: #00aff0;
